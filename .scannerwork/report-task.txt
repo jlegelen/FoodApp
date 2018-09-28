@@ -1,0 +1,6 @@
+projectKey=FoodApp
+serverUrl=http://localhost:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://localhost:9000/dashboard/index/FoodApp
+ceTaskId=AWWk4YzdHX-z4WnZFDv1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWWk4YzdHX-z4WnZFDv1
